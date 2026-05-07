@@ -1,16 +1,18 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**lamii123/lamii123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Thorgen, aka Lastmiles or just Lami
 
-Here are some ideas to get you started:
+Github deleted my old account, so I will be starting over again here
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**📚 Currently Learning:**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**📫 E-Mail:** [contact@lastmiles.site](mailto:contact@lastmiles.site)
+
+<img src="https://count.getloli.com/@Visit%20Counter?name=Visit+Counter&theme=booru-lewd&padding=6&offset=0&align=center&scale=0.75&pixelated=1&darkmode=auto" alt="Profile Views"/>
+
+</div>
