@@ -9,6 +9,6 @@ Have something you want to talk to me about? Just send me a E-Mail at
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/asdfthorgen)
 [![X/Twitter](https://img.shields.io/badge/X%2FTwitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/lastmiles0711)
 
-<img src="https://count.getloli.com/@Visit%20Counter?name=Visit+Counter&theme=booru-lewd&padding=6&offset=0&align=center&scale=0.75&pixelated=1&darkmode=auto" alt="Profile Views"/>
+<img src="https://count.getloli.com/@Visit%20Counter?name=Visit+Counter&theme=booru-lewd&padding=6&offset=0&align=center&scale=2&pixelated=1&darkmode=auto" alt="Profile Views"/>
 
 </div>
